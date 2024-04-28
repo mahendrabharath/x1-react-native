@@ -1,4 +1,5 @@
 # x1-react-native
+Build a mobile app that works on both iOS and Android using JavaScript and React. Leverage the strengths of native development with a familiar React codebase.
 
 ## versions
 
